@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**7** solved · 7 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-11-07 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-11-08 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-11-08 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-11-08 | [solution](problems/0053-implement-self-attention-mechanism) |
 
 ---
 
