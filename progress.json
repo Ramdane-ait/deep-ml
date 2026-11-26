@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:23:31.085Z",
+  "generated_at": "2026-11-26T15:50:01.589Z",
   "items": {
     "problem:945": {
       "kind": "problem",
@@ -143,6 +143,19 @@
       "last_pushed_at": "2026-11-26T15:23:30.046Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-11-26T15:50:00.797Z",
+      "last_pushed_at": "2026-11-26T15:50:00.797Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
